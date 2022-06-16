@@ -1,0 +1,9 @@
+restAPI\GetRequestWithParam.class
+apiChaining\EndToEndTest.class
+restAPI\PostRequest.class
+restAPI\DeleteRequest.class
+restAPI\GETRequest.class
+restAPI\PUTRequest.class
+restAPI\PostRequestWithFileData.class
+restAPI\PostRequestWithJsonObject.class
+restAPI\PostRequestWithMap.class
